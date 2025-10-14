@@ -1,0 +1,7 @@
+arr2d = np.array([[1, 2, 3], [4, 5, 6],[7, 8, 9]])
+print(arr2d[0, 0])  
+# Element at 1st row, 1st column → 1
+print(arr2d[1, 2])  
+# Element at 2nd row, 3rd column → 6
+print(arr2d[2, 1])  
+# Element at 3rd row, 2nd column → 8
