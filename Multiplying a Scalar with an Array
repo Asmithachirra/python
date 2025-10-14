@@ -1,0 +1,5 @@
+arr = np.array([10, 20, 30, 40])
+print("Original Array:", arr)
+new_arr = arr * 2
+print("After Multiplying by 2:", new_arr)
+
